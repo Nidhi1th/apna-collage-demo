@@ -1,2 +1,2 @@
 # apna-collage-demo
-auther - nidhi kumari
+author - nidhi kumari
